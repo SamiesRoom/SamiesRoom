@@ -1,7 +1,7 @@
 <h1 align="center">⊹˚✧Welcome to Samie's Room✧˚⊹</h1>
 
 ## Hello ♡
-My name is Samie. I am a 20 year old developer in training from Australia. 
+My name is Samie. I am a 21 year old developer in training from Australia. 
 
 ## Current Projects ₍ᐢ. .ᐢ₎ ₊˚⊹♡
 - Monthly Program Auto Updater - Powershell
